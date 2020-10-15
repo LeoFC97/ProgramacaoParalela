@@ -1,3 +1,6 @@
+// Leonardo Costa 
+// Vilmar Rangel
+
 #include <stdio.h>
 #include <pthread.h>
 
